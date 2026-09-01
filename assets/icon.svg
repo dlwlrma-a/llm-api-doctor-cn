@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="LLM API Doctor">
+  <rect width="512" height="512" rx="80" fill="#0F766E"/>
+  <path d="M112 154h288c18 0 32 14 32 32v140c0 18-14 32-32 32H112c-18 0-32-14-32-32V186c0-18 14-32 32-32Z" fill="none" stroke="#CCFBF1" stroke-width="24"/>
+  <circle cx="136" cy="256" r="18" fill="#5EEAD4"/>
+  <circle cx="376" cy="256" r="18" fill="#5EEAD4"/>
+  <path d="M168 256h42l24-55 42 112 28-57h40" fill="none" stroke="#FFFFFF" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M192 112v42M320 112v42M192 358v42M320 358v42" stroke="#CCFBF1" stroke-width="24" stroke-linecap="round"/>
+</svg>
