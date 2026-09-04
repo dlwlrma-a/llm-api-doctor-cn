@@ -1,9 +1,9 @@
 ---
-name: llm-api-doctor-cn
+name: 国产模型 API 诊断医生
 description: 诊断 OpenAI 兼容大模型 API 故障，包括 Base URL、模型 ID、API Key、400/401/403/404/429/5xx、超时、流式输出、reasoning_content 和 Function Calling。适用于 OpenClaw、Codex、WorkBuddy、TRAE、Cursor、SDK 或应用调用国产模型时出现连接、鉴权、请求格式和协议兼容问题；已确认 API 健康后的普通业务代码 Bug 不触发。
 slug: llm-api-doctor-cn
 displayName: 国产模型 API 诊断医生
-version: 1.0.1
+version: 1.0.2
 summary: 诊断 OpenAI 兼容接口、模型配置与工具调用故障
 license: MIT
 ---
